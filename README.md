@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MACHINE LEARNING**
 
-- 👯 I’m looking to collaborate on [Shelf Talk Insights into Book Popularity & Reviews](http://localhost:8888/notebooks/%20ShelfTalk%20Insights%20into%20Book%20Popularity%20&%20Reviews.ipynb)
+- 👯 I’just completed my project on [Shelf Talk Insights into Book Popularity & Reviews](http://localhost:8888/notebooks/%20ShelfTalk%20Insights%20into%20Book%20Popularity%20&%20Reviews.ipynb)
 
 - 👨‍💻 All of my projects are available at [https://github.com/komalprasadsaini1995](https://github.com/komalprasadsaini1995)
 
